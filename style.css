@@ -1,0 +1,16 @@
+.button-edu{
+    color: #289BDE;
+    border-color: #289BDE;
+}
+.button-edu:hover{
+    background-color: #289BDE;
+    border-color: #289BDE;
+    color: white;
+
+}
+
+.carousel-caption{
+    transform: translateY(-50%);
+    bottom: initial;
+    top: 50%;
+}

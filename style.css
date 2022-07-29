@@ -1,42 +1,42 @@
-.button-edu{
-    color: #289BDE;
-    border-color: #289BDE;
-    border-radius: 3px;
-}
-.button-edu:hover{
-    background-color: #289BDE;
-    border-color: #289BDE;
-    color: white;
+/* almost all custom css used for color only */
 
+.button-edu {
+  color: #289bde;
+  border-color: #289bde;
+  border-radius: 3px;
 }
-
-.button-edu-normal{
-    color: white;
-    border-color: #289BDE;
-    background-color: #289BDE;
-    border-radius: 3px;
+.button-edu:hover {
+  background-color: #289bde;
+  border-color: #289bde;
+  color: white;
 }
-.button-edu-normal:hover{
-    color: black;
-    border-color: #289BDE;
-    background-color: #289BDE;
-    border-radius: 3px;
+.button-edu-normal {
+  color: white;
+  border-color: #289bde;
+  background-color: #289bde;
+  border-radius: 3px;
 }
-.courses img{
-    width: 100%;
+.button-edu-normal:hover {
+  color: black;
+  border-color: #289bde;
+  background-color: #289bde;
+  border-radius: 3px;
 }
-.button-edu-alt{
-    color: #289BDE;
-    border-color: #289BDE;
-    background-color: white;
-    border-radius: 3px;
+.courses img {
+  width: 100%;
 }
-.button-edu-alt:hover{
-    color: black;
-    border-color: white;
-    background-color: white;
-    border-radius: 3px;
+.button-edu-alt {
+  color: #289bde;
+  border-color: #289bde;
+  background-color: white;
+  border-radius: 3px;
 }
-.join{
-    background-color: #289BDE;
+.button-edu-alt:hover {
+  color: black;
+  border-color: white;
+  background-color: white;
+  border-radius: 3px;
+}
+.join {
+  background-color: #289bde;
 }

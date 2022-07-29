@@ -1,6 +1,7 @@
 .button-edu{
     color: #289BDE;
     border-color: #289BDE;
+    border-radius: 3px;
 }
 .button-edu:hover{
     background-color: #289BDE;
@@ -9,8 +10,33 @@
 
 }
 
-.carousel-caption{
-    transform: translateY(-50%);
-    bottom: initial;
-    top: 50%;
+.button-edu-normal{
+    color: white;
+    border-color: #289BDE;
+    background-color: #289BDE;
+    border-radius: 3px;
+}
+.button-edu-normal:hover{
+    color: black;
+    border-color: #289BDE;
+    background-color: #289BDE;
+    border-radius: 3px;
+}
+.courses img{
+    width: 100%;
+}
+.button-edu-alt{
+    color: #289BDE;
+    border-color: #289BDE;
+    background-color: white;
+    border-radius: 3px;
+}
+.button-edu-alt:hover{
+    color: black;
+    border-color: white;
+    background-color: white;
+    border-radius: 3px;
+}
+.join{
+    background-color: #289BDE;
 }
